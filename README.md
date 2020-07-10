@@ -1,12 +1,7 @@
 # jonocarroll
-My resume/CV in R package format
 
-View my resume as an installable `R` package with interactive graphs and tables.
+Hi, I'm Jonathan Carroll. I develop mainly R code.
 
-    devtools::install_github("jonocarroll/jonocarroll")
+I wrote a book: https://beyondspreadsheetswithr.com 
 
-or 
-
-    pacman::p_load_gh("jonocarroll/jonocarroll")
-
-This loads a fully documented `R` package into your library. From there, start with `?jonocarroll` to find out more about me.
+I live in Adelaide, South Australia.
