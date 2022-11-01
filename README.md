@@ -6,7 +6,4 @@
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonocarroll&show_icons=true" alt="jonocarroll" />
 </p>
-<p align="center">
-   <a rel="me" href="https://mastodon.social/@jonocarroll">Verified on Mastodon</a>
-</p>
 
